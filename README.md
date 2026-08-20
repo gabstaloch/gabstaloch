@@ -1,16 +1,90 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gabstaloch/gabstaloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gabriel Staloch
 
-Here are some ideas to get you started:
+### Desenvolvimento web • Sistemas úteis • Soluções digitais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Crio aplicações e experiências digitais com foco em organização, praticidade e resultado.
+
+[![GitHub](https://img.shields.io/badge/GitHub-gabstaloch-181717?style=for-the-badge&logo=github)](https://github.com/gabstaloch)
+
+</div>
+
+---
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚖️ Notaria</h3>
+      <p>Sistema pensado para organizar e modernizar a rotina de cartórios, com modelos de atos e recursos que tornam o trabalho mais prático.</p>
+      <p><strong>Foco do projeto</strong></p>
+      <ul>
+        <li>Organização de modelos de atos;</li>
+        <li>Agilidade nas rotinas internas;</li>
+        <li>Interface simples e profissional;</li>
+        <li>Evolução contínua do sistema.</li>
+      </ul>
+      <p align="center"><a href="https://github.com/gabstaloch/notaria">Ver repositório →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📜 Arquivo Ancestral</h3>
+      <p>Projeto dedicado à preservação, organização e consulta de informações, documentos e memórias familiares.</p>
+      <p><strong>Foco do projeto</strong></p>
+      <ul>
+        <li>Organização de registros históricos;</li>
+        <li>Consulta simplificada de informações;</li>
+        <li>Valorização da história familiar;</li>
+        <li>Base preparada para novas funcionalidades.</li>
+      </ul>
+      <p align="center"><a href="https://github.com/gabstaloch/arquivoancestral">Ver repositório →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">💰 Termômetro Financeiro</h3>
+      <p>Aplicação de controle financeiro pessoal que ajuda a visualizar gastos, metas e projeções para tomar decisões melhores no presente e no futuro.</p>
+      <p><strong>Principais recursos</strong></p>
+      <ul>
+        <li>Controle de receitas e despesas;</li>
+        <li>Visualização mensal das finanças;</li>
+        <li>Metas e planejamento;</li>
+        <li>Indicadores de atenção financeira;</li>
+        <li>Projeções para objetivos, como viagens e compras.</li>
+      </ul>
+      <p align="center">
+        <a href="https://termometrofinanceiro.vercel.app/">Acessar projeto →</a>
+        &nbsp; • &nbsp;
+        <a href="https://github.com/gabstaloch/termometrofinanceiro">Ver código →</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tecnologias e ferramentas
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## Estatísticas
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabstaloch&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabstaloch&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
+</p>
+
+---
+
+<p align="center">
+  Construindo sistemas que resolvem problemas reais.
+</p>
