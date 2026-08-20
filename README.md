@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Staloch
+# GABRIEL STALOCH
 
 ### Desenvolvimento web • Sistemas úteis • Soluções digitais
 
@@ -30,13 +30,13 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📜 Arquivo Ancestral</h3>
-      <p>Projeto dedicado à preservação, organização e consulta de informações, documentos e memórias familiares.</p>
+      <p>Plataforma voltada a pessoas que buscam a cidadania europeia e precisam localizar certidões de registro civil da própria família no Brasil.</p>
       <p><strong>Foco do projeto</strong></p>
       <ul>
-        <li>Organização de registros históricos;</li>
-        <li>Consulta simplificada de informações;</li>
-        <li>Valorização da história familiar;</li>
-        <li>Base preparada para novas funcionalidades.</li>
+        <li>Captação de pessoas interessadas em pesquisa de cidadania europeia;</li>
+        <li>Pesquisa de certidões de nascimento, casamento e óbito da linhagem familiar;</li>
+        <li>Organização da documentação encontrada no Brasil;</li>
+        <li>Rastreamento da linha familiar até o registro civil do ascendente europeu.</li>
       </ul>
       <p align="center"><a href="https://github.com/gabstaloch/arquivoancestral">Ver repositório →</a></p>
     </td>
