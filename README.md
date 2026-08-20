@@ -26,7 +26,11 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
         <li>Interface simples e profissional;</li>
         <li>Evolução contínua do sistema.</li>
       </ul>
-      <p align="center"><a href="https://github.com/gabstaloch/notaria">Ver repositório →</a></p>
+      <p align="center">
+        <a href="https://notaria.vercel.app/">Acessar projeto →</a>
+        &nbsp; • &nbsp;
+        <a href="https://github.com/gabstaloch/notaria">Ver repositório →</a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📜 Arquivo Ancestral</h3>
@@ -38,7 +42,11 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
         <li>Organização da documentação encontrada no Brasil;</li>
         <li>Rastreamento da linha familiar até o registro civil do ascendente europeu.</li>
       </ul>
-      <p align="center"><a href="https://github.com/gabstaloch/arquivoancestral">Ver repositório →</a></p>
+      <p align="center">
+        <a href="https://arquivoancestral.vercel.app/">Acessar projeto →</a>
+        &nbsp; • &nbsp;
+        <a href="https://github.com/gabstaloch/arquivoancestral">Ver repositório →</a>
+      </p>
     </td>
   </tr>
   <tr>
