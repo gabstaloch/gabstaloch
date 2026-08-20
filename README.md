@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Staloch
+# GABRIEL STALOCH
 
 ### Desenvolvimento web • Sistemas úteis • Soluções digitais
 
