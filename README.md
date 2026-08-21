@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-banner.jpg" alt="Textura metálica abstrata" width="100%" />
+
 # GABRIEL STALOCH
 
 ### Desenvolvimento web • Sistemas úteis • Soluções digitais
@@ -20,41 +22,24 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
       <h3 align="center">⚖️ ExtraServ</h3>
       <p align="center"><img src="https://img.shields.io/badge/STATUS-EM%20PRODUÇÃO-16a34a?style=flat-square&labelColor=374151" alt="Em produção" /></p>
       <p>Sistema para organizar e modernizar a rotina de cartórios, centralizando modelos de atos e processos internos.</p>
-      <ul>
-        <li>Organização de modelos de atos;</li>
-        <li>Agilidade nas rotinas internas;</li>
-        <li>Interface simples e profissional;</li>
-        <li>Controle e evolução contínua do sistema.</li>
-      </ul>
+      <ul><li>Organização de modelos de atos;</li><li>Agilidade nas rotinas internas;</li><li>Interface simples e profissional;</li><li>Controle e evolução contínua do sistema.</li></ul>
       <p align="center"><a href="https://extraserv.vercel.app/">🌐 Acessar projeto →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📜 Arquivo Ancestral</h3>
       <p align="center"><img src="https://img.shields.io/badge/STATUS-EM%20PRODUÇÃO-16a34a?style=flat-square&labelColor=374151" alt="Em produção" /></p>
       <p>Plataforma para pessoas que buscam cidadania europeia e precisam localizar certidões da família no Brasil.</p>
-      <ul>
-        <li>Pesquisa de certidões da linhagem familiar;</li>
-        <li>Organização da documentação encontrada;</li>
-        <li>Rastreamento até o ascendente europeu;</li>
-        <li>Captação de clientes para pesquisa documental.</li>
-      </ul>
+      <ul><li>Pesquisa de certidões da linhagem familiar;</li><li>Organização da documentação encontrada;</li><li>Rastreamento até o ascendente europeu;</li><li>Captação de clientes para pesquisa documental.</li></ul>
       <p align="center"><a href="https://arquivoancestral.vercel.app/">🌐 Acessar projeto →</a></p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">💰 Termômetro Financeiro</h3>
-      <p align="center"><img src="https://img.shields.io/badge/STATUS-EM%20PRODUÇÃO-16a34a?style=flat-square&labelColor=374151" alt="Em produção" /></p>
-      <p>Aplicação de controle financeiro pessoal que conecta gastos atuais, metas e projeções para decisões melhores.</p>
-      <ul>
-        <li>Controle de receitas e despesas;</li>
-        <li>Visualização mensal das finanças;</li>
-        <li>Metas, planejamento e projeções;</li>
-        <li>Indicadores de atenção financeira.</li>
-      </ul>
-      <p align="center"><a href="https://termometrofinanceiro.vercel.app/">🌐 Acessar projeto →</a></p>
-    </td>
-  </tr>
+  <tr><td colspan="2" valign="top">
+    <h3 align="center">💰 Termômetro Financeiro</h3>
+    <p align="center"><img src="https://img.shields.io/badge/STATUS-EM%20PRODUÇÃO-16a34a?style=flat-square&labelColor=374151" alt="Em produção" /></p>
+    <p>Aplicação de controle financeiro pessoal que conecta gastos atuais, metas e projeções para decisões melhores.</p>
+    <ul><li>Controle de receitas e despesas;</li><li>Visualização mensal das finanças;</li><li>Metas, planejamento e projeções;</li><li>Indicadores de atenção financeira.</li></ul>
+    <p align="center"><a href="https://termometrofinanceiro.vercel.app/">🌐 Acessar projeto →</a></p>
+  </td></tr>
 </table>
 
 ---
@@ -73,9 +58,6 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
 
 ## 📊 Estatísticas
 
-<p>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabstaloch&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabstaloch&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
-</p>
+<p><img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabstaloch&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" /> <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabstaloch&layout=compact&theme=transparent&hide_border=true&locale=pt-br" /></p>
 
 <p align="center">Construindo sistemas que resolvem problemas reais.</p>
