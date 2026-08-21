@@ -42,7 +42,7 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
       <p align="center"><a href="https://termometrofinanceiro.vercel.app/">🌐 Acessar projeto →</a></p>
     </td>
     <td width="50%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-fish.jpg" alt="Peixe dourado" width="100%" />
+      <img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-art.jpg" alt="Textura abstrata colorida" width="100%" />
     </td>
   </tr>
 </table>
