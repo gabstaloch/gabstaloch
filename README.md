@@ -17,7 +17,7 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚖️ Notaria</h3>
+      <h3 align="center">⚖️ ExtraServ</h3>
       <p>Sistema pensado para organizar e modernizar a rotina de cartórios, com modelos de atos e recursos que tornam o trabalho mais prático.</p>
       <p><strong>Foco do projeto</strong></p>
       <ul>
@@ -27,7 +27,7 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
         <li>Evolução contínua do sistema.</li>
       </ul>
       <p align="center">
-        <a href="https://notaria.vercel.app/">Acessar projeto →</a>
+        <a href="https://extraserv.vercel.app/">Acessar projeto →</a>
         &nbsp; • &nbsp;
         <a href="https://github.com/gabstaloch/notaria">Ver repositório →</a>
       </p>
