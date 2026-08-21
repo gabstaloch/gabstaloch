@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-banner.jpg" alt="Textura metálica abstrata" width="100%" />
+<img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-banner.jpg" alt="Textura metálica abstrata" width="50%" />
 
 # GABRIEL STALOCH
 
