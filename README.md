@@ -34,15 +34,12 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">💰 Termômetro Financeiro</h3>
       <p align="center"><img src="https://img.shields.io/badge/STATUS-EM%20PRODUÇÃO-16a34a?style=flat-square&labelColor=374151" alt="Em produção" /></p>
       <p>Aplicação de controle financeiro pessoal que conecta gastos atuais, metas e projeções para decisões melhores.</p>
       <ul><li>Controle de receitas e despesas;</li><li>Visualização mensal das finanças;</li><li>Metas, planejamento e projeções;</li><li>Indicadores de atenção financeira.</li></ul>
       <p align="center"><a href="https://termometrofinanceiro.vercel.app/">🌐 Acessar projeto →</a></p>
-    </td>
-    <td width="50%" valign="middle" align="center" style="padding: 0;">
-      <img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-art-v2.jpg" alt="Textura abstrata colorida" width="100%" style="display: block;" />
     </td>
   </tr>
 </table>
