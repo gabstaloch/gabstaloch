@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-banner.jpg" alt="Paisagem Windows XP" width="100%" />
-
 # GABRIEL STALOCH
 
 ### Desenvolvimento web • Sistemas úteis • Soluções digitais
