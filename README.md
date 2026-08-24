@@ -41,8 +41,8 @@ Crio aplicações e experiências digitais com foco em organização, praticidad
       <ul><li>Controle de receitas e despesas;</li><li>Visualização mensal das finanças;</li><li>Metas, planejamento e projeções;</li><li>Indicadores de atenção financeira.</li></ul>
       <p align="center"><a href="https://termometrofinanceiro.vercel.app/">🌐 Acessar projeto →</a></p>
     </td>
-    <td width="50%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-art-v2.jpg" alt="Textura abstrata colorida" width="100%" />
+    <td width="50%" valign="middle" align="center" style="padding: 0;">
+      <img src="https://raw.githubusercontent.com/gabstaloch/gabstaloch/main/assets/profile-art-v2.jpg" alt="Textura abstrata colorida" width="100%" style="display: block;" />
     </td>
   </tr>
 </table>
